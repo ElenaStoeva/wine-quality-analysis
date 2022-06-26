@@ -1,4 +1,4 @@
-# Wine Reviews - Data Analysis
+# Wine Quality - Data Analysis
 
 Final data analysis project for ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
 
